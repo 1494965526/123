@@ -18,9 +18,9 @@
 #ago=input('nianl')
 #print("ws",name,ago)
 
-a=input("请输入数字：")
-b=input("请输入数字：")
-c=int(a)+int(b)
-print("jieguos ",c)
+#a=input("请输入数字：")
+#b=input("请输入数字：")
+#c=int(a)+int(b)
+#print("jieguos ",c)
 
 
